@@ -9,7 +9,8 @@
 
 ## 🎯 Mission
 
-We believe that **everyone should have access to high-quality Solana mobile development resources**. Our mission is to provide high-quality and cool mobile development tutorial by offering:
+We believe that **everyone should have access to high-quality Solana mobile development resources**.<br>
+Our mission is to provide high-quality and cool mobile development tutorial by offering:
 
 - **Comprehensive tutorials** from beginner to advanced levels
 - **Production-ready sample applications** on android
