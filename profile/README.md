@@ -21,6 +21,7 @@ Our mission is to provide high-quality and cool mobile development tutorial by o
 
 ### 📱 Diverse Sample Apps & Tutorials
 - **Android Native (Kotlin)** - Learning how to build Solana Mobile dapps on Android native platforms.
+- **Cross Platform (Flutter)** - Learning how to build Solana Mobile dapps on Android to using Flutter.
 - **Step by Step** - Progressive tutorials designed for gradual skill development from basics to advanced concepts.
 
 ### 🌍 Global Accessibility
